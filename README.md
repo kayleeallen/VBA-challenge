@@ -15,9 +15,9 @@ Using the original code to run an analysis of the stocks for year 2017, the run 
 ![VBA_Challenge_2017_Original](https://user-images.githubusercontent.com/90978520/135771546-5462e5a5-5fbd-4fe2-a554-6e4e6522ae52.png)
 
 
-Using the original code to run an analysis of the stocks for year 2018, the run time was as shown:!
+Using the original code to run an analysis of the stocks for year 2018, the run time was as shown:
 
-[VBA_Challenge_2018_Original](https://user-images.githubusercontent.com/90978520/135771554-a5c291a4-9571-4f83-af7b-135ce6b5c9fa.png)
+![VBA_Challenge_2018_Original](https://user-images.githubusercontent.com/90978520/135771554-a5c291a4-9571-4f83-af7b-135ce6b5c9fa.png)
 
 ### Refactoring the Code
 
