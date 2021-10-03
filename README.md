@@ -1,6 +1,6 @@
 # VBA-challenge
 
-##Performing analysis using VBA in Excel to analyze stock trends
+## Performing analysis using VBA in Excel to analyze stock trends
 
 ### Overview
 The purpose of this challenge is to refactor code to make it run more efficiently. 
