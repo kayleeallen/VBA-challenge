@@ -45,9 +45,11 @@ Using the original code to run an analysis of the stocks for year 2018, the run 
 #### 6. The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module
 
   Outputs for 2017 Analysis:
+  
   ![image](https://user-images.githubusercontent.com/90978520/135772805-b5752a5d-6f83-406b-b6f2-b978a604cf4d.png)
   
   Outputs for 2018 Analysis:
+  
   ![2018_Analysis](https://user-images.githubusercontent.com/90978520/135772818-0ed9a9af-a279-4319-be90-b3bc360a9f78.png)
 
 
