@@ -52,5 +52,19 @@ Using the original code to run an analysis of the stocks for year 2018, the run 
   
   ![2018_Analysis](https://user-images.githubusercontent.com/90978520/135772818-0ed9a9af-a279-4319-be90-b3bc360a9f78.png)
 
+### Results
+
+As we can see in the snips below, the refactored code significantly decreased the run time of the code to perform the analysis of the dataset:
+
+Run time for data from year 2017:
+
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/90978520/135772925-c6d48f22-4922-40e5-a24d-fa369e573864.png)
+
+Run time for data from year 2018:
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/90978520/135772933-551ef038-c4b3-416a-b4f9-7688b24a20bf.png)
+
+The refactored code was more efficient than the original code so it was able to provide us with the results quicker.
+
 
   
